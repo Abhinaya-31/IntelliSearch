@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Label } from "@/components/ui/label";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Upload, FileText, Plus, X } from "lucide-react";
-import { base44 } from "@/api/base44Client";
+import { base44 } from "@/Api/base44Client";
 import { useToast } from "@/components/ui/use-toast";
 
 export default function DocumentUploadModal({ open, onOpenChange, onDocumentCreated }) {

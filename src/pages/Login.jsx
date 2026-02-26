@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { base44 } from '@/api/base44Client';
+import { base44 } from '@/Api/base44Client';
 import { Sparkles, Mail, Lock, ArrowRight, User as UserIcon, Loader2 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
