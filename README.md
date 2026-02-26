@@ -162,4 +162,4 @@ For technical documentation and backend services:
 
 ---
 
-**Built by Team Pro_coders🚀**
+**Built by Team pro_coders🚀**
