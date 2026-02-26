@@ -3,10 +3,10 @@ import { base44 } from "@/api/base44Client";
 import { useQuery } from "@tanstack/react-query";
 import { Search, FileText, TrendingUp, Shield, Database, Activity } from "lucide-react";
 
-import StatsGrid from "../components/dashboard/StatsGrid";
-import ActivityChart from "../components/dashboard/ActivityChart";
-import RecentQueries from "../components/dashboard/recentQueries";
-import SecurityInsightsWidget from "../components/dashboard/SecurityInsightsWidget";
+import StatsGrid from "../components/Dashboard/StatsGrid";
+import ActivityChart from "../components/Dashboard/ActivityChart";
+import RecentQueries from "../components/Dashboard/recentQueries";
+import SecurityInsightsWidget from "../components/Dashboard/SecurityInsightsWidget";
 import { createPageUrl } from "@/utils";
 import { Link } from "react-router-dom";
 
